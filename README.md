@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! 👋 Coding for life here! 💻
+😄 Pronouns: He/him
+
+🔭 I’m currently working on cool things at Federal Reserve Bank that I can't share at GitHub. Check my website @ [https://johnroach.io](https://johnroach.io) for some articles I wrote on different tech and life
+
+💬 Ask me about Ansible, Terraform, Docker, Kubernetes, GCP and AWS stuff. If I don't know answer can show direction. Expect "Did you Google this?" for certain questions
+
+📫 How to reach me: 
+- [Twitter @johnroach](https://twitter.com/johnroach)
+- [LinkedIn](https://www.linkedin.com/in/johnroach1985/)
+
 
 <!--
 **johnroach/johnroach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
