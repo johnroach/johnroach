@@ -3,7 +3,9 @@
 
 Husband to [Sevil Roach](https://github.com/sevilroach)
 
-🔭 I am currently working on cool things at [Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/). Check my website [https://johnroach.io](https://johnroach.io) for some articles I wrote on tech and life.
+🔭 I am currently working on cool things at [Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/).
+
+Check my website [https://johnroach.io](https://johnroach.io) for some articles I wrote on tech and life.
 
 💬 Ask me about Ansible, Terraform, Docker, Kubernetes, GCP and AWS stuff. If I don't know answer can show direction.
 
