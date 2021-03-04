@@ -1,15 +1,16 @@
 ### Hi there! 👋 Coding for life here! 💻
 😄 Pronouns: He/him
 
-Husband to [Sevil Roach](https://github.com/sevilroach)
+:ring: Husband to [Sevil Roach](https://github.com/sevilroach)
 
 🔭 I am currently working on cool things at [Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/).
 
-Check my website [https://johnroach.io](https://johnroach.io) for some articles I wrote on tech and life.
+:eyes: Check my website [https://johnroach.io](https://johnroach.io) for some articles I wrote on tech and life.
 
 💬 Ask me about Ansible, Terraform, Docker, Kubernetes, GCP and AWS stuff. If I don't know answer can show direction.
 
 📫 How to reach me: 
+
 - [Twitter @johnroach](https://twitter.com/johnroach)
 - [LinkedIn](https://www.linkedin.com/in/johnroach1985/)
 - [Web https://johnroach.io](https://johnroach.io)
