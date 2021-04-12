@@ -3,7 +3,7 @@
 
 :ring: Husband to [Sevil Roach](https://github.com/sevilroach)
 
-🔭 I am currently working on cool things at [Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/).
+🔭 I am currently working on cool things at .
 
 :eyes: Check my website [https://johnroach.io](https://johnroach.io) for some articles I wrote on tech and life.
 
