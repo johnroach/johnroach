@@ -1,8 +1,8 @@
 ### Hi there! 👋 Coding for life here! 💻
 😄 Pronouns: He/him
 
-:ring: Husband to [Sevil Roach](https://github.com/sevilroach
-🔭 I am currently working on cool things at [McKinsey](https://github.com/mckinsey].
+:ring: Husband to [Sevil Roach](https://github.com/sevilroach)
+🔭 I am currently working on cool things at [McKinsey](https://github.com/mckinsey).
 
 :eyes: Check my website [https://johnroach.io](https://johnroach.io) for some articles I wrote on tech and life.
 
